@@ -5,15 +5,15 @@ Installation Procedures
     Documentation: https://virtualenv.pypa.io/en/latest/
     Github: https://github.com/pypa/virtualenv
 
-    ##Installation
+####Installation
     Using pip to install: pip install virtualenv
     Install from source:
         $ git clone https://github.com/pypa/virtualenv
         $ cd virtualenv
         $ [sudo] python setup.py install
-    ##Setting up new virtual environment
+####Setting up new virtual environment
         $ virtualenv nodejs --no-site-packages
-    ##Using the virtual environment
+####Using the virtual environment
         $ cd nodejs
         $ source bin/activate
 
