@@ -1,7 +1,7 @@
 Installation Procedures
 =======================
 
-#Install and setting up virtualenv.
+#Install and set up virtualenv.
     Documentation: https://virtualenv.pypa.io/en/latest/
     Github: https://github.com/pypa/virtualenv
 
@@ -23,7 +23,7 @@ Installation Procedures
         $ source bin/activate
         ```
 
-#Download, compile and install the latest nodejs
+#Compile and install the latest nodejs
     Documentation: http://nodejs.org/documentation/
     Github: https://github.com/joyent/node
 
